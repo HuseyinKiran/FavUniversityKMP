@@ -1,0 +1,49 @@
+<resources>
+    <string name="cd_add_to_favorites">Favorilere ekle</string>
+    <string name="cd_remove_from_favorites">Favorilerden çıkar</string>
+
+    <string name="cd_expand_city">Üniversiteleri göster</string>
+    <string name="cd_collapse_city">Üniversiteleri gizle</string>
+
+    <string name="cd_expand_university">Üniversite detaylarını aç</string>
+    <string name="cd_collapse_university">Üniversite detaylarını kapat</string>
+
+    <string name="rector">Rektör</string>
+    <string name="address">Adres</string>
+    <string name="phone">Telefon</string>
+    <string name="fax">Faks</string>
+    <string name="email">E-posta</string>
+    <string name="website">Web Sitesi</string>
+
+    <string name="university">üniversite</string>
+
+    <string name="empty_favorites_title">Henüz favori yok</string>
+    <string name="empty_favorites_description">Favorilere eklediğiniz üniversiteler burada görünecek</string>
+
+    <string name="error_occurred">Bir hata oluştu</string>
+    <string name="try_again">Tekrar Dene</string>
+
+    <string name="universities">Üniversiteler</string>
+    <string name="search">Ara</string>
+    <string name="favorites">Favoriler</string>
+
+    <string name="title_home">Üniversite Rehberi</string>
+    <string name="title_search">Üniversite Ara</string>
+    <string name="title_favorites">Favoriler</string>
+
+    <string name="search_placeholder">Üniversite ara...</string>
+
+    <string name="cd_search">Ara</string>
+    <string name="cd_clear_search">Aramayı temizle</string>
+
+    <string name="universities_found">üniversite bulundu</string>
+
+    <string name="search_min_char_warning">Arama yapabilmek için en az 2 harf giriniz</string>
+
+    <string name="no_result_found">Sonuç bulunamadı</string>
+
+    <string name="search_no_match">Eşleşen bir üniversite yok "%1$s"</string>
+
+    <string name="loading_universities">Üniversiteler yükleniyor...</string>
+
+</resources>

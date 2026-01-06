@@ -1,0 +1,5 @@
+package com.huseyinkiran.favuniversitykmp.data.local
+
+import androidx.room.RoomDatabaseConstructor
+
+expect object UniversityDatabaseConstructor : RoomDatabaseConstructor<UniversityDatabase>
