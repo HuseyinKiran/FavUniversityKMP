@@ -131,5 +131,5 @@ Scroll position, expanded cards, and search queries are preserved when switching
 ### Platform Behaviors
 - **Android**: Back button on root tabs moves app to background
 - **iOS**: Native swipe gesture support
-
+-
 ---
